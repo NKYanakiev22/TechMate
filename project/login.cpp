@@ -1,6 +1,7 @@
 #include "login.h"
 
-extern std::unordered_map<std::string, std::string> users; // Use the global users map
+extern std::unordered_map<std::string, std::string> users;
+
 
 bool login() {
     std::string username, password;

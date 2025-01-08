@@ -3,52 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:nietzsche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:nietzsche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:login.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:login.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:nietzsche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:explanations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:socrates.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:register.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:quotes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:nietzsche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:socrates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:register.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:quotes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,72 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "nietzsche.h",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h",
-              "RelativeDocumentMoniker": "nietzsche.h",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h",
-              "RelativeToolTip": "nietzsche.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T18:12:31.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nietzsche.cpp",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp",
-              "RelativeDocumentMoniker": "nietzsche.cpp",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp",
-              "RelativeToolTip": "nietzsche.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T18:11:47.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "login.h",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h",
-              "RelativeDocumentMoniker": "login.h",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h",
-              "RelativeToolTip": "login.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T18:10:56.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "login.cpp",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.cpp",
-              "RelativeDocumentMoniker": "login.cpp",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.cpp",
-              "RelativeToolTip": "login.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T18:10:18.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Libraries.h",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
-              "RelativeDocumentMoniker": "Libraries.h",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
-              "RelativeToolTip": "Libraries.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T18:06:17.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "explanations.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h",
               "RelativeDocumentMoniker": "explanations.h",
@@ -143,19 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "explanations.cpp",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
-              "RelativeDocumentMoniker": "explanations.cpp",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
-              "RelativeToolTip": "explanations.cpp",
-              "ViewState": "AgIAADgAAAAAAAAAAAAkwEcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T18:04:38.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "confucius.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h",
               "RelativeDocumentMoniker": "confucius.h",
@@ -168,18 +115,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "confucius.cpp",
-              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
-              "RelativeDocumentMoniker": "confucius.cpp",
-              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
-              "RelativeToolTip": "confucius.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T17:57:43.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Aristotle.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h",
               "RelativeDocumentMoniker": "Aristotle.h",
@@ -191,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "aristotle.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp",
               "RelativeDocumentMoniker": "aristotle.cpp",
@@ -203,15 +138,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "confucius.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
+              "RelativeDocumentMoniker": "confucius.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
+              "RelativeToolTip": "confucius.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T17:57:43.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "explanations.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
+              "RelativeDocumentMoniker": "explanations.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
+              "RelativeToolTip": "explanations.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:04:38.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.cpp",
+              "RelativeDocumentMoniker": "login.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.cpp",
+              "RelativeToolTip": "login.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:10:18.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nietzsche.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp",
+              "RelativeDocumentMoniker": "nietzsche.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.cpp",
+              "RelativeToolTip": "nietzsche.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:11:47.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h",
+              "RelativeDocumentMoniker": "login.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\login.h",
+              "RelativeToolTip": "login.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:10:56.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libraries.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
+              "RelativeDocumentMoniker": "Libraries.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
+              "RelativeToolTip": "Libraries.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:06:17.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "project.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp",
               "RelativeDocumentMoniker": "project.cpp",
               "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp",
               "RelativeToolTip": "project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T17:32:30.134Z"
+              "WhenOpened": "2025-01-08T17:32:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "socrates.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.h",
+              "RelativeDocumentMoniker": "socrates.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.h",
+              "RelativeToolTip": "socrates.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:33:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.h",
+              "RelativeDocumentMoniker": "register.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.h",
+              "RelativeToolTip": "register.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:32:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "quotes.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.h",
+              "RelativeDocumentMoniker": "quotes.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.h",
+              "RelativeToolTip": "quotes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:30:27.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nietzsche.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h",
+              "RelativeDocumentMoniker": "nietzsche.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\nietzsche.h",
+              "RelativeToolTip": "nietzsche.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:12:31.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "socrates.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.cpp",
+              "RelativeDocumentMoniker": "socrates.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\socrates.cpp",
+              "RelativeToolTip": "socrates.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:33:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "register.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.cpp",
+              "RelativeDocumentMoniker": "register.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\register.cpp",
+              "RelativeToolTip": "register.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:32:14.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "quotes.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.cpp",
+              "RelativeDocumentMoniker": "quotes.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\quotes.cpp",
+              "RelativeToolTip": "quotes.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:29:57.108Z"
             }
           ]
         }

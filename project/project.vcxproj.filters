@@ -36,6 +36,15 @@
     <ClCompile Include="nietzsche.cpp">
       <Filter>cpp</Filter>
     </ClCompile>
+    <ClCompile Include="quotes.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="register.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="socrates.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aristotle.h">
@@ -54,6 +63,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="nietzsche.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quotes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="register.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="socrates.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

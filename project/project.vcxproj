@@ -133,11 +133,17 @@
     <ClCompile Include="explanations.cpp" />
     <ClCompile Include="login.cpp" />
     <ClCompile Include="nietzsche.cpp" />
+    <ClCompile Include="quotes.cpp" />
+    <ClCompile Include="register.cpp" />
+    <ClCompile Include="socrates.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aristotle.h" />
     <ClInclude Include="confucius.h" />
     <ClInclude Include="explanations.h" />
+    <ClInclude Include="socrates.h" />
+    <ClInclude Include="register.h" />
+    <ClInclude Include="quotes.h" />
     <ClInclude Include="nietzsche.h" />
     <ClInclude Include="login.h" />
     <ClInclude Include="Libraries.h" />
