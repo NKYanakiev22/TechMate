@@ -24,9 +24,15 @@
     <ClCompile Include="aristotle.cpp">
       <Filter>cpp</Filter>
     </ClCompile>
+    <ClCompile Include="confucius.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aristotle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="confucius.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
