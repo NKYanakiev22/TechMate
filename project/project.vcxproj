@@ -130,10 +130,13 @@
     <ClCompile Include="project.cpp" />
     <ClCompile Include="aristotle.cpp" />
     <ClCompile Include="confucius.cpp" />
+    <ClCompile Include="explanations.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Aristotle.h" />
     <ClInclude Include="confucius.h" />
+    <ClInclude Include="explanations.h" />
+    <ClInclude Include="Libraries.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

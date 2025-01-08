@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:explanations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:explanations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,6 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Libraries.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
+              "RelativeDocumentMoniker": "Libraries.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Libraries.h",
+              "RelativeToolTip": "Libraries.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:06:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "explanations.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h",
+              "RelativeDocumentMoniker": "explanations.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.h",
+              "RelativeToolTip": "explanations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T18:05:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "explanations.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
+              "RelativeDocumentMoniker": "explanations.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\explanations.cpp",
+              "RelativeToolTip": "explanations.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T18:04:38.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "confucius.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h",
               "RelativeDocumentMoniker": "confucius.h",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "confucius.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
               "RelativeDocumentMoniker": "confucius.cpp",
@@ -59,12 +110,11 @@
               "RelativeToolTip": "confucius.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T17:57:43.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:57:43.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Aristotle.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h",
               "RelativeDocumentMoniker": "Aristotle.h",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "Aristotle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T17:40:47.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:40:47.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "aristotle.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp",
               "RelativeDocumentMoniker": "aristotle.cpp",
@@ -89,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "project.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp",
               "RelativeDocumentMoniker": "project.cpp",

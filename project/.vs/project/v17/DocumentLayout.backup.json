@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:confucius.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:Aristotle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:aristotle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEE158A-B00A-4827-969B-F1ACF4D50269}|project.vcxproj|solutionrelative:project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "confucius.h",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h",
+              "RelativeDocumentMoniker": "confucius.h",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.h",
+              "RelativeToolTip": "confucius.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T17:58:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "confucius.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
+              "RelativeDocumentMoniker": "confucius.cpp",
+              "ToolTip": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\confucius.cpp",
+              "RelativeToolTip": "confucius.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T17:57:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Aristotle.h",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\Aristotle.h",
               "RelativeDocumentMoniker": "Aristotle.h",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "aristotle.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\aristotle.cpp",
               "RelativeDocumentMoniker": "aristotle.cpp",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "project.cpp",
               "DocumentMoniker": "C:\\Users\\Nikolay_08\\Documents\\New folder (5)\\TechMate\\project\\project.cpp",
               "RelativeDocumentMoniker": "project.cpp",
